@@ -8,6 +8,4 @@ The application allows search and display images by specific keywords. Image det
 ## Screenshots
 ![Search](/Screenshots/ScreenShot1.png)
 ![Preview](/Screenshots/ScreenShot2.png)
-![Info](/Screenshots/ScreenShot3png)
-
-## Requirements
+![Info](/Screenshots/ScreenShot3.png)
