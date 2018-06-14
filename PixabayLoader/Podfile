@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '10.0'
+
+target 'PixabayLoader' do
+   pod 'AFNetworking', '~> 3.0'
+   pod 'SVPullToRefresh'
+   pod 'SDWebImage', '~> 4.0'
+   pod 'SVProgressHUD'
+
+  target 'PixabayLoaderTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

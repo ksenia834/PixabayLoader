@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  PixabayLoader
+
+  Created by Kseniia on 6/7/18.
+  Copyright © 2018 Kseniia. All rights reserved.
+*/
+
+"SearchViewController.Title"    = "PixabayLoader";
+"Default.Error.Alert.Title"     = "Error";
+"Default.Ok.Title"              = "Ok";
+
+"InfoViewController.Resolution.Title"   = "Resolution";
+"InfoViewController.Views.Title"        = "Views";
+"InfoViewController.Downloads.Title"    = "Downloads";
+
