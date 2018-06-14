@@ -6,5 +6,8 @@ IMPORTANT! Before start application, you need to use your own Your API key, whic
 
 
 ## Screenshots
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Search](https://github.com/ksenia834/PixabayLoader/blob/master/Screenshots/Screen%20Shot%202018-06-14%20at%205.31.14%20PM.png)
+![Preview](https://github.com/ksenia834/PixabayLoader/blob/master/Screenshots/Screen%20Shot%202018-06-14%20at%205.31.18%20PM.png)
+![Details](https://github.com/ksenia834/PixabayLoader/blob/master/Screenshots/Screen%20Shot%202018-06-14%20at%205.31.23%20PM.png)
+
+
